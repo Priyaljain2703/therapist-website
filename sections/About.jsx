@@ -4,7 +4,7 @@ import Image from 'next/image';
 
 const About = () => {
   return (
-    <section className="bg-[#fff] mt-50 px-6 md:px-12 ">
+    <section className="bg-[#fff] mt-50 px-6 md:px-12 text-[#000]">
       <div className="max-w-[70vw] mx-auto grid md:grid-cols-2 gap-10 items-center">
         <div>
           <h2 className="text-4xl font-semibold  mb-6 text-[#7e7e6b] font-serif">
