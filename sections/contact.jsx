@@ -51,7 +51,7 @@ const Contact = () => {
   };
 
   return (
-    <section className="bg-[#fff] px-6 pt-40">
+    <section className="bg-[#fff] px-6 pt-40 pb-20">
       <div className="max-w-3xl mx-auto">
         <h2 className="text-3xl font-semibold text-center mb-10 text-[#4a4a3f]">Contact Me</h2>
         <form onSubmit={handleSubmit} className="space-y-6">
