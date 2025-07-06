@@ -2,7 +2,7 @@ import React from 'react';
 import "../src/app/globals.css";
 
 const Hero = () => {
-  return (
+  return ( 
     <section className="relative w-full min-h-screen bg-[#f3f0e8] text-white font-serif flex flex-col items-center justify-start pt-12 px-4">
 
 

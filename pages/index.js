@@ -8,13 +8,13 @@ import Contact from '../sections/contact'
 
 function Index() {
   return (
-    <>
+    <div className='bg-[#fff] text-[#000]'>
     <Hero/>
     <About/>
     <Services/>
     <FAQSection/>
     <Contact/>
-    </>
+    </div>
     
   )
 }
